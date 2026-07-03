@@ -165,15 +165,11 @@ The Date Table was connected to the Finance Transactions table using the Transac
 
 ## Overview Analysis
 
-> *(Insert your Overview Dashboard Screenshot here)*
-
 ![Task 3: Finance Analytics Dashboard](Finance Analysis Overview Dashboard.png)
 
 ---
 
 ## Transaction Analysis
-
-> *(Insert your Transaction Dashboard Screenshot here)*
 
 ![Task 3: Finance Analytics Dashboard](Finance_Analysis_Transaction Dashboard.png)
 
